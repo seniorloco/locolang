@@ -1,7 +1,6 @@
 # locolang
-<div style="color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;"><span style="color: rgb(212, 212, 212); font-size: 24px;">LocoLang - Language created in C++ - Work In Progress</span></div>
-<p><span style="font-size: 24px;">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span></p>
-<div style="color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;"><br></div>
-<div style="color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;"><span style="color: rgb(251, 160, 38);">LocoLang</span><span style="color: #d4d4d4;">&nbsp;is a small programming language I&#39;m working on just as a challenge to create a programming language.</span></div>
-<div style="color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;"><span style="color: rgb(251, 160, 38);">LocoLang</span> is being written in <span style="color: rgb(97, 189, 109);">C++</span> (however poorly) and is currently just a project.</div>
-<div style="color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;"><span style="color: #d4d4d4;">When finished I&#39;m hoping to achieve a semi-usable programming language that will be open to everyone!</span></div>
+<h1>LocoLang - Language created in C++ - Work In Progress</h1>
+
+LocoLang is a small programming language I'm working on just as a challenge to create a programming language.
+LocoLang is being written in C++ (however poorly) and is currently just a project.
+When finished I'm hoping to achieve a semi-usable programming language that will be open to everyone!
