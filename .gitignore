@@ -36,6 +36,7 @@
 .vs/locoLang/v16/Browse.VC.opendb
 .vs/locoLang/v16/Browse.VC.db
 .vs/locoLang/v16/.suo
+.64x/Debug/locoLang.exe
 locoLang.h
 locoLang.sln
 *.pdb
