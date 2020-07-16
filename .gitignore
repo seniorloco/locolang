@@ -39,3 +39,9 @@
 .vs/locoLang/v16/.suo
 locoLang.h
 locoLang.sln
+*.pdb
+*.tlog
+*.ilk
+*.log
+*.idb
+*.txt
