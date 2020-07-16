@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+*.vcxproj
+*.user
+*.filters
+.vs/locoLang/v16/ipch/AutoPCH/96ef63d9ca75624e/LOCOLANG.ipch
+.vs/locoLang/v16/Browse.VC.opendb
+.vs/locoLang/v16/Browse.VC.db
+.vs/locoLang/v16/.suo
+locoLang.h
+locoLang.sln
