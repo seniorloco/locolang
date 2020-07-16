@@ -22,7 +22,7 @@ bool endsWith(const string& mainStr, const string& toMatch) {
 
 }
 
-void interpret(const string& code) {
+void interpret(const string code) {
 
     cout << "interpreting " + code + "\n\n";
     ifstream file(code);
