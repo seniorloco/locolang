@@ -46,3 +46,4 @@ locoLang.sln
 *.idb
 *.txt
 path.bak
+x64/Debug/locoLang.exe
